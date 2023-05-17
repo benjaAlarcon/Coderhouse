@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Gloria Connection</title>
+</head>
+<body>
+	<header>
+		<h1>Gloria connection</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Catálogo</a></li>
+				<li><a href="#">Promociones</a></li>
+				<li><a href="#">Información</a></li>
+                <li><a href="#">Quienes somos?</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+		<section>
+			<h2>¡El futuro esta al alcance de tu estilo!</h2>
+			<p>En nuestra tienda podrás encontrar la última moda en ropa para hombres y mujeres</p>
+		</section>
+		
+		<section>
+			<h3>Descubre nuestro catálogo de ropa</h3>
+			<p>Explora nuestra selección de ropa y encuentra lo que estás buscando.</p>
+			<a href="#">Ver catálogo completo</a>
+		</section>
+		
+		<section>
+			<h4>¡No te pierdas nuestras promociones!</h4>
+			<p>Mira nuestros descuentos especiales en toda nuestra ropa. ¡Aprovecha nuestras ofertas limitadas!</p>
+			<a href="#">Ver promociones</a>
+		</section>
+		
+		<section>
+			<h5>¿Necesitas más información?</h5>
+			<p>Si tienes alguna pregunta o necesitas más información sobre nuestros productos o servicios, Revisa nuestra informacion. O contactanos</p>
+			<a href="#">Contactar</a>
+		</section>
+	</main>
+	
+	<footer>
+		<p> Gloria Connection. Vesti bien, vesti Gloria connection </p>
+	</footer>
+</body>
+</html>
